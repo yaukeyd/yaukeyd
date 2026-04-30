@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yaukeyd
-- 👀 I’m interested in programming and computer science
-- 🌱 I’m currently learning nothing
+- 👋 Hi, I’m Donovan Yaukey
+- 👀 I’m studying Software Engineering
+- 🌱 I’m currently learning Algorithms
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: yaukeyd@gmail.com
 
